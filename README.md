@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NeftCobla/NeftCobla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛢️ neft
 
-Here are some ideas to get you started:
+### just a little bit of oil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+petroleum enthusiast • human being • internet creature
+
+</div>
+
+---
+
+### `> whoami`
+
+hi, i'm neft.
+
+just a little bit of oil in a digital world.
+
+### `> currently`
+
+- exploring the internet
+- learning new things
+- probably thinking about oil
+
+### `> fun fact`
+
+there is never enough oil.
+
+<div align="center">
+
+`made with 🖤 and petroleum`
+
+</div>
